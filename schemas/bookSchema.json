@@ -8,7 +8,7 @@
   "additionalProperties": true,
   "required": [
       "isbn",
-      "amazon-url",
+      "amazon_url",
       "author",
       "language",
       "pages",
@@ -29,10 +29,10 @@
               "0691161518"
           ]
       },
-      "amazon-url": {
-          "$id": "#/properties/amazon-url",
+      "amazon_url": {
+          "$id": "#/properties/amazon_url",
           "type": "string",
-          "title": "The Amazon-url Schema",
+          "title": "The Amazon_url Schema",
           "description": "An explanation about the purpose of this instance.",
           "default": "",
           "examples": [

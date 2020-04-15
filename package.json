@@ -17,5 +17,13 @@
     "pg": "^7.5.0",
     "supertest": "^3.3.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmergola/express-bookstore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gmergola/express-bookstore/issues"
+  },
+  "homepage": "https://github.com/gmergola/express-bookstore#readme",
   "description": ""
 }
